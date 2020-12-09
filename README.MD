@@ -3,6 +3,7 @@
 - Need to rely on two library files in libdeps 
 
 - WebServer example, because the original library is not compatible with ESP32, has been modified, if you need to run, please copy the folder in the libdeps directory to the Libraries directory
+- Arduino IDE board select `ESP32 Dev Module` for the board
 
 ## Use Pins
 ```
